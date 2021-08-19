@@ -11,6 +11,7 @@ h2{
 
 form{
     width:300px;
+    max-width: 100%;
     margin: 0 auto;
     padding: 30px;
     margin-bottom: 30px;
@@ -70,6 +71,7 @@ label{
     background-color: #51a351;
 }
 
-.results{
+.results,
+#clear{
     display: none;
 }
